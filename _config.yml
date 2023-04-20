@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Small Businesses In Bloom'
-description:      'Local small businesses in Bloomington and how students and locals interact.'
+description:      'The small businesses of Bloomington create a unique sense of community.'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
