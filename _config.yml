@@ -20,9 +20,9 @@
 
 title:            'Small Businesses In Bloom'
 description:      'The small businesses of Bloomington create a unique sense of community.'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+url:              'https://katsater.github.io'
+baseurl:          '/Small-Business-In-Bloom'
+copyright:        'Produced by Sydney Geis, Madison Peckinpaugh, and Kathryn Sater'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -106,7 +106,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: 'Small Businesses'
         link: '/about/'
       - label: 'Documentation'
         link: 'https://minicomp.github.io/wiki/wax/'
@@ -114,9 +114,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'BuffaLouies'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Gather'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
@@ -133,11 +133,11 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/katsater/Small-Business-In-Bloom'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:katsater@iu.edu'
   logos:
     - img: '/img/logo.png'
 
