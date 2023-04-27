@@ -1,4 +1,4 @@
----
+
 layout: exhibit
 title: 'BuffaLouie's'
 author: Madison Peckinpaugh
