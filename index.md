@@ -2,16 +2,14 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: businesses
+  pid: obj1
   y: 25%
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
-
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+This project highlights six local businesses in Bloomington. Downtown Bloomington possesses a unique atmosphere with many small and locally owned businesses that help to establish a friendly and unique environment. When walking down Kirkwood Ave and Walnut Ave there is no lack of small businesses to shop  or grab a bite to eat at. The Sample Gates are an IU-Bloomington campus staple that look out over Kirkwood Ave. The Sample Gates represent the individuality that Bloomington possesses, an environment that would not be the same without the contribution of small businesses. 
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='businesses' %}
