@@ -1,0 +1,192 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "obj5",
+    "label": "Tea",
+    "object_type": "Cup & Kettle Tea",
+    "location": "208 N Walnut St. ",
+    "description": "The signature wall of tea. Cup & Kettle Tea provides a wide range of teas and various gluten free and vegan snacks. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj5",
+    "lunr_id": 0
+  },
+  {
+    "pid": "obj10",
+    "label": "Student-study",
+    "object_type": "Soma",
+    "location": "1400 E Third St.",
+    "description": "Soma is a great place for students, with multiple locations throughout campus to accomadate everyone. A great place to study or hang out with friends. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj10",
+    "lunr_id": 1
+  },
+  {
+    "pid": "obj1",
+    "label": "Street-View",
+    "object_type": "Kirkwood",
+    "location": "Kirkwood Ave.",
+    "description": "Kirkwood in Febreurary. Kirkwood, and its surrounding areas is a hot spot for local small businesses. The Sample Gates are an IU-Bloomington campus staple that looks out over Kirkwood Ave. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj1",
+    "lunr_id": 2
+  },
+  {
+    "pid": "obj14",
+    "label": "Exterior",
+    "object_type": "Lola & Co",
+    "location": "114 N Walnut St",
+    "description": "Lola & Co is a vintage lifestyle boutique located on Walnut Ave in downtown Bloomington. Here you can find anything you may need from home decor and kitchen ware to clothes and accessories. This store creates a comfortable and homey environment from the second that you walk in. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj14/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj14",
+    "lunr_id": 3
+  },
+  {
+    "pid": "obj15",
+    "label": "Clothing",
+    "object_type": "Gather",
+    "location": "116 N Walnut St",
+    "description": "Gather is a locally owned boutique with all handmade items. It is located in downtown Bloomington, just off of Walnut Ave. Gather opened in 2013 and has been selling the work of independent artists ever since. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj15/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj15",
+    "lunr_id": 4
+  },
+  {
+    "pid": "obj4",
+    "label": "Kitchen",
+    "object_type": "Cup & Kettle Tea",
+    "location": "208 N Walnut St.",
+    "description": "The impecable service and environment are some of the few attracting details about the shop.",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj4",
+    "lunr_id": 5
+  },
+  {
+    "pid": "obj11",
+    "label": "Interior",
+    "object_type": "Landlocked Music",
+    "location": "115 S Walnut St",
+    "description": "Landlocked Music is a music shop located just south of the downtown square, on Walnut Ave. This shop is a great place to buy, sell, or trade any new or used CDs, vinyls, DVDs, etc. that you may have. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj11",
+    "lunr_id": 6
+  },
+  {
+    "pid": "obj9",
+    "label": "Interior",
+    "object_type": "Soma",
+    "location": "1400 E Third St.",
+    "description": "Soma has been described as a cozy, comforting place for students and locals. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj9",
+    "lunr_id": 7
+  },
+  {
+    "pid": "obj8",
+    "label": "Stadium",
+    "object_type": "BuffaLouie's",
+    "location": "114 S Indiana Ave.",
+    "description": "BuffaLouie's is a spot to be at to watch a game and have a good time with family and friends. The IU pride is not lacking at BuffaLouie's and brings people together in a unique way on game days.",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj8",
+    "lunr_id": 8
+  },
+  {
+    "pid": "obj3",
+    "label": "Seating",
+    "object_type": "Cup & Kettle Tea",
+    "location": "208 N Walnut St. ",
+    "description": "The inside of Cup & Kettle Tea provides a warm, homey environment for customers. Reviews describe it as a \"charming atmosphere.\"",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj3",
+    "lunr_id": 9
+  },
+  {
+    "pid": "obj16",
+    "label": "Plants",
+    "object_type": "Gather",
+    "location": "116 N Walnut St",
+    "description": "Gather is owned and run by women and takes pride in the uniqueness of their products. Everything they sell is handmade. You can find anything such as jewelry, clothes, toys, bath and body products, and more. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj16/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj16",
+    "lunr_id": 10
+  },
+  {
+    "pid": "obj7",
+    "label": "Mural",
+    "object_type": "BuffaLouie's",
+    "location": "114 S Indiana Ave.",
+    "description": "Decorated in IU memorabilia, BuffaLouie's provides a sense of community among IU fans, students, and alumni. This small business is Bloomington specific and Hoosier proud. It adds a uniqueness to the downtown Bloomington that can't be found anywhere else.",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj7",
+    "lunr_id": 11
+  },
+  {
+    "pid": "obj12",
+    "label": "Interior-2",
+    "object_type": "Landlocked Music",
+    "location": "115 S Walnut St",
+    "description": "Landlocked music has a plethora of albums available for purchase or trade. The top 5 selling albums in their collection include Metallica - 72 Seasons, El Michels Affair & Black Thought - Glorious Game, 3. Neil Young - Somewhere Under the Rainbow 1973 / Ducks - High Flyin', Wednesday - Rat Saw God, Boygenius - The Record",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj12",
+    "lunr_id": 12
+  },
+  {
+    "pid": "obj6",
+    "label": "Exterior",
+    "object_type": "BuffaLouie's",
+    "location": "114 S Indiana Ave.",
+    "description": "BuffaLouie's is a local wingshop favored by locals and IU students. The Bloomington location is the only location for BuffaLouie's so it is quite literally something you can only get in this college town, which adds to the uniqueness of Bloomington businesses and restaurants.",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj6",
+    "lunr_id": 13
+  },
+  {
+    "pid": "obj13",
+    "label": "Interior-3",
+    "object_type": "Landlocked Music",
+    "location": "115 S Walnut St",
+    "description": "Landlocked Music opened in March of 2006 and has been a Bloomington staple for the music community ever since. It has a wide variety of music to choose from and highlights different songs each week. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj13/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj13",
+    "lunr_id": 14
+  },
+  {
+    "pid": "obj2",
+    "label": "Enterance",
+    "object_type": "Cup & Kettle Tea",
+    "location": "208 N Walnut St.",
+    "description": "Cup & Kettle Tea, a cozy tea shop downtown. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj2",
+    "lunr_id": 15
+  },
+  {
+    "pid": "obj17",
+    "label": "Accessories",
+    "object_type": "Gather",
+    "location": "166 N Walnut St",
+    "description": "Once a month, Gather hosts a craft night to encourage the community to try their hand at creating their own works of art and immerse themselves in creativity. ",
+    "collection": "businesses",
+    "thumbnail": "/img/derivatives/iiif/images/obj17/full/250,/0/default.jpg",
+    "permalink": "/businesses/obj17",
+    "lunr_id": 16
+  }
+]
